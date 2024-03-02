@@ -1,0 +1,19 @@
+.card-title{
+    color: #d7b34c;
+}
+.card{
+    margin-bottom:1rem;
+    cursor: pointer;
+}
+.card:hover .card-title{
+    color: #00bcd4;
+}
+.inner{
+    overflow: hidden;
+}
+.inner img{
+    transition: all 1.5s ease;
+}
+.inner:hover img{
+    transform: scale(1.2);
+}

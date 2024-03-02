@@ -1,0 +1,8 @@
+.aside{
+    background-color: #d7b34c;
+}
+@media (min-width: 768px){
+    h3.feedback{
+        margin-top: 25%;
+    }
+}

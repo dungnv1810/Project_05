@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #fff;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.home{
+    color: #d7b34c !important;
+}
+.nav-link:hover{
+    color: #d7b34c !important;
+}
